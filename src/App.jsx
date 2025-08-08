@@ -156,7 +156,7 @@ const styles = {
   },
   title: {
     textAlign: 'center',
-    fontSize: '2.5rem',
+    fontSize: '4rem',
     marginBottom: '2rem',
     color: '#00ffd9',
   },
